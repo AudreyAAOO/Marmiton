@@ -1,0 +1,110 @@
+body {
+	font-family: "roboto", sans-serif;
+	font-size: 16px;
+	background-color: #efefef;
+	width: 1440 px;
+}
+
+.container {
+	/*border: 2px solid aqua;*/
+	width: 1024px;
+	height: 100%;
+	margin: 0 auto;
+	background-color: white;
+	border-radius: 10px;
+}
+
+section {
+	margin-top: 61px;
+	background-color: white;
+	padding: 60px 30px;
+	border-radius: 20px;
+}
+
+/* :–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–: */
+/*! -- HEADER --★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ */
+/* -▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼- */
+
+header {
+	background-color: white;
+	border-bottom: 1px solid #f3735f;
+	height: 80px;
+}
+header img {
+	width: 200px;
+	margin: 20px;
+}
+
+/* :–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–: */
+/*! -- MAIN --★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ */
+/* -▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼- */
+
+.baseline {
+	color: #6c6c6c;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.cookingTime {
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	width: 400px;
+	line-height: 26px;
+	border-radius: 10px;
+	background-color: #8a98b1;
+	color: white;
+}
+
+.imagesRecette {
+	margin: 0 auto;
+}
+
+.imagesRecette img {
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+
+p {
+	line-height: 22px;
+	margin-bottom: 20px;
+}
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: #393c6c;
+	text-align: center;
+}
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #f3735f;
+	margin: 70px auto 20px; /* haut | horizontal | bas */
+}
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #393c6c;
+	line-height: 22px;
+}
+
+ul {
+	margin-left: 20px;
+	line-height: 22px;
+	list-style: disc;
+}
+
+/* :–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–:*:–☆–: */
+/*! -- FOOTER --★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ */
+/* -▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼･ェ･▼- */
+
+footer p {
+	border: 3px solid chartreuse;
+	text-align: center;
+	padding: 60px 20px 40px;
+	font-size: 13px;
+}
